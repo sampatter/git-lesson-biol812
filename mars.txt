@@ -1,3 +1,4 @@
+some changes that prevent checkout
 more changes
 even more changes.... we are modifying this line
 ksdjflskdjflksdjflskdj
